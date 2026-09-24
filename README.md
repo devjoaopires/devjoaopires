@@ -53,6 +53,20 @@ Sou João Pires, desenvolvedor fullstack com foco na criação de sistemas web, 
 
 ---
 
+## 🚀 Projeto em Destaque
+
+### 🐘 [PostgreSQL Lab](https://github.com/devjoaopires/postgresql-lab)
+
+Projeto Fullstack criado para demonstrar conhecimentos práticos em **PostgreSQL, TypeScript, Node.js, Express e React**.
+
+O repositório inclui modelagem relacional, constraints, JOINs, CTEs, views, functions, triggers, transactions, índices e análise com `EXPLAIN ANALYZE`, além de uma aplicação com **React + TypeScript** no frontend e **Node.js + Express + TypeScript** no backend integrada ao PostgreSQL com queries parametrizadas e transações reais.
+
+**Stack:** PostgreSQL · SQL · PL/pgSQL · TypeScript · Node.js · Express · React · Vite
+
+🔗 **[Ver PostgreSQL Lab](https://github.com/devjoaopires/postgresql-lab)**
+
+---
+
 ## 📊 Estatísticas
 
 <p align="left">

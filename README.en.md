@@ -70,6 +70,20 @@ I transform business rules and ideas into functional, organized applications des
 
 ---
 
+## 🚀 Featured Project
+
+### 🐘 [PostgreSQL Lab](https://github.com/devjoaopires/postgresql-lab)
+
+Fullstack project built to demonstrate practical knowledge of **PostgreSQL, TypeScript, Node.js, Express, and React**.
+
+The repository includes relational modeling, constraints, JOINs, CTEs, views, functions, triggers, transactions, indexes, and `EXPLAIN ANALYZE`, plus a **React + TypeScript** frontend and a **Node.js + Express + TypeScript** backend integrated with PostgreSQL through parameterized queries and real database transactions.
+
+**Stack:** PostgreSQL · SQL · PL/pgSQL · TypeScript · Node.js · Express · React · Vite
+
+🔗 **[View PostgreSQL Lab](https://github.com/devjoaopires/postgresql-lab)**
+
+---
+
 ## 📊 Statistics
 
 <p align="left">
