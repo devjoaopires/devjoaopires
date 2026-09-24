@@ -60,11 +60,12 @@ Sou João Pires, desenvolvedor fullstack com foco na criação de sistemas web, 
   <img
     alt="Estatísticas do GitHub de João Pires"
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=devjoaopires&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas%20do%20GitHub%20de%20João%20Pires"
+    src="./profile/stats.svg"
   />
+
   <img
     alt="Tecnologias mais usadas por João Pires"
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaopires&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="./profile/top-langs.svg"
   />
 </p>
