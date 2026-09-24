@@ -67,3 +67,32 @@ Sou João Pires, desenvolvedor fullstack com foco na criação de sistemas web, 
     src="./profile/top-langs.svg?v=3"
   />
 </p>
+
+### 🏗️ Arquitetura
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Frontend</strong><br><br>
+      <img alt="HTML" title="HTML" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+      &nbsp;
+      <img alt="CSS" title="CSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+      &nbsp;
+      <img alt="JavaScript" title="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+      <br><br>
+      HTML · CSS · JavaScript
+    </td>
+    <td align="center" width="33%">
+      <strong>Infraestrutura</strong><br><br>
+      🖥️
+      <br><br>
+      VPS
+    </td>
+    <td align="center" width="33%">
+      <strong>Banco de Dados</strong><br><br>
+      <img alt="PostgreSQL" title="PostgreSQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+      <br><br>
+      PostgreSQL
+    </td>
+  </tr>
+</table>
