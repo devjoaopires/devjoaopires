@@ -51,7 +51,6 @@ Sou João Pires, desenvolvedor fullstack com foco na criação de sistemas web, 
   <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </p>
 
-
 ---
 
 ## 📊 Estatísticas
@@ -60,11 +59,11 @@ Sou João Pires, desenvolvedor fullstack com foco na criação de sistemas web, 
   <img
     alt="Estatísticas do GitHub de João Pires"
     width="49%"
-    src="./profile/stats.svg"
+    src="./profile/stats.svg?v=3"
   />
   <img
     alt="Tecnologias mais usadas por João Pires"
     width="31%"
-    src="./profile/top-langs.svg"
+    src="./profile/top-langs.svg?v=3"
   />
 </p>
