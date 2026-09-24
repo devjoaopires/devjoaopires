@@ -1,0 +1,43 @@
+name: Atualizar estatísticas do README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v6
+
+      - name: Gerar card de estatísticas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: stats
+          path: profile/stats.svg
+          options: username=devjoaopires&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20Jo%C3%A3o%20Pires
+          fail_on_error: true
+
+      - name: Gerar card de tecnologias
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: top-langs
+          path: profile/top-langs.svg
+          options: username=devjoaopires&theme=tokyonight&locale=pt-br&layout=compact&langs_count=9&custom_title=Tecnologias
+          fail_on_error: true
+
+      - name: Publicar cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/top-langs.svg
+          git commit -m "chore: atualizar cards de estatísticas" || exit 0
+          git push
