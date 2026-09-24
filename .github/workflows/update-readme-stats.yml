@@ -19,7 +19,7 @@ jobs:
       - name: Gerar card de estatísticas
         uses: stats-organization/github-readme-stats-action@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
           card: stats
           path: profile/stats.svg
           options: username=devjoaopires&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20Jo%C3%A3o%20Pires
@@ -28,7 +28,7 @@ jobs:
       - name: Gerar card de tecnologias
         uses: stats-organization/github-readme-stats-action@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
           card: top-langs
           path: profile/top-langs.svg
           options: username=devjoaopires&theme=tokyonight&locale=pt-br&layout=compact&langs_count=9&custom_title=Tecnologias
