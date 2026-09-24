@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**devjoaopires/devjoaopires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# JOÃO PIRES
 
-Here are some ideas to get you started:
+### `DESENVOLVEDOR DE SOFTWARE`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**SOFTWARE SOB MEDIDA**
+
+Transformo ideias e regras de negócio em software funcional, organizado e preparado para operações reais.
+
+`SOFTWARE` · `SISTEMAS WEB` · `APIs` · `BANCO DE DADOS`
+
+</div>
