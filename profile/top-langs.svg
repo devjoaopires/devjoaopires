@@ -62,6 +62,8 @@
     .progress-background { fill: #ddd; }
     
           
+
+          
       /* Animations */
       @keyframes scaleInAnimation {
         from {
@@ -83,7 +85,12 @@
           
         </style>
 
-        <defs></defs>
+        
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
@@ -98,6 +105,7 @@
           stroke-opacity="1"
         />
 
+        
       <g
         data-testid="card-title"
         transform="translate(25, 35)"
@@ -111,6 +119,7 @@
       >Linguagens</text>
     </g>
       </g>
+    
 
         <g
           data-testid="main-card-body"
@@ -119,15 +128,61 @@
           
     <svg data-testid="lang-items" x="25">
       
+  
       <mask id="rect-mask">
           <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
         </mask>
         
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="0" y="0" width="139.04" height="8" fill="#663399" />
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="139.04" y="0" width="98.75" height="8" fill="#e34c26" />
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="237.79" y="0" width="17.73" height="8" fill="#f1e05a" />
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="245.51999999999998" y="0" width="13.71" height="8" fill="#3178c6" />
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="249.23" y="0" width="10.76" height="8" fill="#336790" />
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="0"
+          y="0"
+          width="139.04"
+          height="8"
+          fill="#663399"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="139.04"
+          y="0"
+          width="98.75"
+          height="8"
+          fill="#e34c26"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="237.79"
+          y="0"
+          width="17.73"
+          height="8"
+          fill="#f1e05a"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="245.51999999999998"
+          y="0"
+          width="13.71"
+          height="8"
+          fill="#3178c6"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="249.23"
+          y="0"
+          width="10.76"
+          height="8"
+          fill="#336790"
+        />
+      
       
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
