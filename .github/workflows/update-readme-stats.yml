@@ -25,13 +25,13 @@ jobs:
           options: username=devjoaopires&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20Jo%C3%A3o%20Pires
           fail_on_error: true
 
-      - name: Gerar card de tecnologias
+      - name: Gerar card de linguagens
         uses: stats-organization/github-readme-stats-action@v2
         with:
           token: ${{ secrets.STATS_TOKEN }}
           card: top-langs
           path: profile/top-langs.svg
-          options: username=devjoaopires&theme=tokyonight&locale=pt-br&layout=compact&langs_count=9&custom_title=Tecnologias
+          options: username=devjoaopires&theme=tokyonight&locale=pt-br&layout=compact&langs_count=9&custom_title=Linguagens
           fail_on_error: true
 
       - name: Publicar cards

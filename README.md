@@ -76,7 +76,7 @@ O repositório inclui modelagem relacional, constraints, JOINs, CTEs, views, fun
     src="./profile/stats.svg?v=3"
   />
   <img
-    alt="Tecnologias mais usadas por João Pires"
+    alt="Linguagens mais usadas por João Pires"
     width="31%"
     src="./profile/top-langs.svg?v=3"
   />
