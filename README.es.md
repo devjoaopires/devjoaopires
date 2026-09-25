@@ -72,12 +72,12 @@ El repositorio incluye modelado relacional, constraints, JOINs, CTEs, views, fun
 <p align="left">
   <img
     alt="Estadísticas de GitHub de João Pires"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=devjoaopires&show_icons=true&theme=tokyonight&include_all_commits=true&locale=es"
+    width="49%"
+    src="./profile/stats.svg?v=4"
   />
   <img
-    alt="Tecnologías más utilizadas"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaopires&theme=tokyonight&layout=compact&custom_title=Tecnologías&langs_count=9"
+    alt="Tecnologías más utilizadas por João Pires"
+    width="31%"
+    src="./profile/top-langs.svg?v=4"
   />
 </p>

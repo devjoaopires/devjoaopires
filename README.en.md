@@ -72,12 +72,12 @@ The repository includes relational modeling, constraints, JOINs, CTEs, views, fu
 <p align="left">
   <img
     alt="João Pires GitHub Statistics"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=devjoaopires&show_icons=true&theme=tokyonight&include_all_commits=true"
+    width="49%"
+    src="./profile/stats.svg?v=4"
   />
   <img
-    alt="Most used technologies"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaopires&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"
+    alt="Most used technologies by João Pires"
+    width="31%"
+    src="./profile/top-langs.svg?v=4"
   />
 </p>
