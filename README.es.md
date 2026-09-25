@@ -1,6 +1,6 @@
 <h1>
   👨🏻‍💻 João Pires
-  <a href="./README.es.md"><img align="right" height="22" alt="ES" title="Español" src="https://img.shields.io/badge/ES-C62828?style=flat-square&logo=googletranslate&logoColor=white" /></a><img align="right" width="1" height="1" alt="" src="https://img.shields.io/badge/-transparent?style=flat-square&color=00000000" /><a href="./README.en.md"><img align="right" height="22" alt="EN" title="English" src="https://img.shields.io/badge/EN-1565C0?style=flat-square&logo=googletranslate&logoColor=white" /></a><img align="right" width="1" height="1" alt="" src="https://img.shields.io/badge/-transparent?style=flat-square&color=00000000" /><a href="./README.md"><img align="right" height="22" alt="PT" title="Português" src="https://img.shields.io/badge/PT-2E7D32?style=flat-square&logo=googletranslate&logoColor=white" /></a>
+  <a href="./README.es.md"><img align="right" height="22" alt="ES" title="Español" src="https://img.shields.io/badge/ES-C62828?style=flat-square&logo=googletranslate&logoColor=white" /></a><a href="./README.en.md"><img align="right" height="22" alt="EN" title="English" src="https://img.shields.io/badge/EN-1565C0?style=flat-square&logo=googletranslate&logoColor=white" /></a><a href="./README.md"><img align="right" height="22" alt="PT" title="Português" src="https://img.shields.io/badge/PT-2E7D32?style=flat-square&logo=googletranslate&logoColor=white" /></a>
 </h1>
 
 **DESARROLLADOR FULLSTACK**
